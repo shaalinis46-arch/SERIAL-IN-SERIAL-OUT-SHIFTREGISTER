@@ -39,5 +39,5 @@ RegisterNumber: 25017649
 **RTL LOGIC FOR SISO Shift Register**
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-
+![output](de1.png)
 **RESULTS**
